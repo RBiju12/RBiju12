@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishan Biju</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **SmartCite**
-
-- 🌱 I’m currently learning **NextJS and TypeScript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/RBiju12](https://github.com/RBiju12)
 
 - 📫 How to reach me **rishanbiju@gmail.com**
